@@ -1,6 +1,7 @@
 # Fake Currency Detection Using Machine Learning
- Used Algorithm : Convolutional Neural Network
- Data Set : - [https://drive.google.com/file/d/1zCsOrCThZ2Y3zGdfLFX3IxC7W33xeYQQ/view?usp=drive_link] "Click Here"
+ Used Algorithm : Convolutional Neural Network <br/>
+ Data Set : - [Click Here](https://drive.google.com/file/d/1zCsOrCThZ2Y3zGdfLFX3IxC7W33xeYQQ/view?usp=drive_link)<br/>
+ Test Data set : [Click Here](https://drive.google.com/file/d/131RVXHuFgCTHQiB-gGteUSkfDu2JV_x7/view?usp=sharing)
 
 <img width="960" alt="Screenshot 2024-01-01 211134" src="https://github.com/Pavan19kumar19/FakeCurrencyDetectionUsingCNN/assets/64640403/00646a03-5d6e-423c-a57f-465f133ade72">
 <img width="960" alt="Screenshot 2024-01-01 211138" src="https://github.com/Pavan19kumar19/FakeCurrencyDetectionUsingCNN/assets/64640403/42598500-b626-498b-a5e3-8f5dbdeada0d">
